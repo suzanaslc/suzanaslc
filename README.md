@@ -1,6 +1,6 @@
 <a href="beacons.ai/suzanacarvalho.dev"> <h3>Hi! I'm Suzana Carvalho!</h3></a>
 
-- 🌱 I’m currently learning Java and UX/UI
+- 🌱 I’m currently learning Java, Javascript and UX/UI
 - 💬 Ask me about design
 - 📫 How to reach me: suzanaslc@gmail.com
 - 😄 Pronouns: she/her
