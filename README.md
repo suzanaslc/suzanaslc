@@ -4,7 +4,7 @@
 - 💬 Ask me about design or coffee
 - 📫 How to reach me: suzanaslc@gmail.com
 - 😄 Pronouns: she/her
-- 🎃 Fun fact: I'm a witch! I swear!!!
+- 🎃 Codepen: [Click!](https://codepen.io/suzanacarvalho)
   
 <h3>🔦 Learning</h3>
 
