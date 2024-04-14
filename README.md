@@ -15,8 +15,6 @@
   <img align="center" alt="Suzana-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Suzana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Suzana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img src="https://i.picasion.com/pic91/7aa2cfdcc7b08f74bce37ec3ebf86d9c.gif" align="right" width="150" height="150" border="0" /> 
 </div>
   
   ##
